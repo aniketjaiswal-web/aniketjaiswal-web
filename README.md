@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Aniket 👋
+
+🎓 B.Voc (Software Development) Student at SMS Lucknow  
+💻 Learning PHP, HTML, CSS & JavaScript  
+🚀 Interested in Web Development  
+📚 Currently building projects and learning GitHub
 
 <!--
 **aniketjaiswal-web/aniketjaiswal-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
