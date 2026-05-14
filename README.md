@@ -1,6 +1,6 @@
 # Hi, I'm Aniket 👋
 
-🎓 B.Voc (Software Development) Student at SMS Lucknow  
+🎓 B.Voc (Software Development) Student at School of Management Science, Lucknow  
 💻 Learning PHP, HTML, CSS & JavaScript  
 🚀 Interested in Web Development  
 📚 Currently building projects and learning GitHub
